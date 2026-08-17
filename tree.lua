@@ -1,13 +1,13 @@
 Folder PATH listing for volume HDD
 Volume serial number is 00000008 DCB3:EE92
-[F:.] = {
-|   labels.txt
-|   Tomorrowland-foldable.lua
-|   tree.ini
-|   tree.lua
-|   tree.txt
-|   tree2.txt
-|   
+local ["F:."] = {
+  ["labels.txt"],
+  ["Tomorrowland-foldable.lua"],
+  ["tree.ini"],
+  ["tree.lua"],
+  ["tree.txt"],
+  ["tree2.txt"]
+}
 \---BE
     +---2025
     |   |   07-20_2138_FISHER.mp3
